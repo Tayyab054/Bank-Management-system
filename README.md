@@ -1,5 +1,3 @@
-# Bank-Management-system
-A desktop-based Bank Management System developed in C# using Windows Forms and Oracle database for managing accounts, transactions, and user data.
 # Bank Management System 💳
 A Windows Forms-based Bank Management System developed in **C#** with an **Oracle** backend. This application allows admins and users to manage bank accounts, perform transactions, and view/update user details.
 
